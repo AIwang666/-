@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-file = open('acc_20220505154422.txt')  # 打开文档
+file = open('1.txt')  # 打开文档
 data = file.readlines()  # 读取文档数据
 x,y,loss=[],[],[]
 
